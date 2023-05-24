@@ -108,7 +108,7 @@ AI detection could also assist by performing pre-processing whenever required, f
 
 Furthermore, with the use of inertial sensor or even inexpensive camera providing depth information [9] with calibration can give us additional information to build a better SLAM model for inserting picture or 3D object accurately, which explains why ARCore and ARKit are getting popular nowadays.
 
-# **6 RUNNING UNDER ANACONDA**
+# **6 EXECUTION**
 To run the experiments, use the command
 `python .\experiment.py`
 
